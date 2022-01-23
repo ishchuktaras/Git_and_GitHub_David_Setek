@@ -1,1 +1,0 @@
-Vytvořil jsem soubor test.txt
